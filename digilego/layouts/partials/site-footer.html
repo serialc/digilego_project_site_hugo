@@ -1,0 +1,58 @@
+<footer class="{{ .Site.Params.background_color_class | default "bg-black" }} bottom-0 w-100 pa3 pt4" role="contentinfo">
+  <div class="white-70 w-100 w-70-ns flex flex-wrap center justify-around">
+
+    <div class="w-100 w-50-m w-20-l mh3">
+      {{ if .Site.Params.footer_menu_left }}
+      <div class="f3">{{ site.Params.footer_menu_left }}</div>
+      <ul class="list pl1 mt2">
+        {{ range .Site.Menus.footer_left }}
+          <li class="pt3"><a class="no-underline white-90" href="{{ .URL | relLangURL }}" title="{{ .Name }}">
+              <img src="/images/institutions/{{ .Identifier }}" title="{{ .Name }}">
+          </a></li>
+        {{ end }}
+      </ul>
+      {{ end }}
+    </div>
+
+    <div class="w-100 w-50-m w-20-l mh3">
+      {{ if .Site.Params.footer_menu_middle }}
+      <div class="f3">{{ site.Params.footer_menu_middle }}</div>
+      <ul class="list pl1 mt2">
+        {{ range .Site.Menus.footer_middle }}
+          <li class="pt3"><a class="no-underline white-90" href="{{ .URL | relLangURL }}" title="{{ .Name }}">{{ .Name }}</a></li>
+        {{ end }}
+      </ul>
+      {{ end }}
+    </div>
+
+    <div class="w-100 w-50-m w-20-l mh3">
+      {{ if .Site.Params.footer_menu_right }}
+      <div class="f3">{{ site.Params.footer_menu_right }}</div>
+      <ul class="list pl1 mt2">
+        {{ range .Site.Menus.footer_right }}
+          <li class="pt3"><a class="no-underline white-90" 
+          {{ if eq .Identifier "email"}}
+            href="{{ .URL }}" 
+          {{ else }}
+            href="{{ .URL | relLangURL }}"
+          {{ end }}
+          title="{{ .Name }}">{{ .Name }}</a></li>
+        {{ end }}
+      </ul>
+      {{ end }}
+    </div>
+
+    <div class="w-100 w-50-m w-20-l mh3">
+      {{ with site.Params.site_logo }}
+      <img width="{{ site.Params.site_logo_width }}" class="img-fluid" src="{{ . | relURL }}" alt="{{ site.Title }}">
+      {{ else }}{{ site.Title }}{{ end }}
+
+      {{ with site.Params.abstract }}
+      <div class="mt3">{{ site.Params.abstract }}</div>
+      {{ else }}{{ site.Title }}{{ end }}
+
+      <div class="mt3">&copy; {{ with .Site.Copyright | default .Site.Title }} {{ . | safeHTML }} {{ now.Format "2006"}} {{ end }}</div>
+    </div>
+
+  </div>
+</footer>

@@ -1,0 +1,115 @@
+baseURL = "https://project.digilego.eu/"
+languageCode = "en-us"
+title = "Digilego Project"
+theme = "ananke"
+copyright = "Digilego"
+
+DefaultContentLanguage = "en"
+sectionPagesMenu = "main"
+paginate = "8"
+enableRobotsTXT = true
+
+summaryLength = 70
+
+[languages]
+  [languages.en]
+    weight = 1
+    contentDir = "content/en"
+# add another language if necessary
+
+# tells search engines about pages on site available for crawling
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+[params]
+  favicon = "/images/site/favicon.ico"
+  site_logo = "/images/site/logo.svg"
+  abstract = "Developing Geographic and Environmental Science Methodology Teaching Resources"
+  site_logo_width = 200
+  facebook = ""
+  twitter = "https://twitter.com/digilego"
+  youtube = ""
+  github = ""
+  gitlab = ""
+  linkedin = ""
+  mastodon = ""
+  slack = ""
+  stackoverflow = ""
+  instagram = ""
+  rss = ""
+  test = "x"
+
+  # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
+  background_color_class = "bg-black"
+
+  featured_image = "/images/site/Vogelbestimmung.jpg"
+  recent_posts_number = 2
+
+# Footer headings
+  footer_menu_left = "Co-funded by"
+  footer_menu_middle = "About"
+  footer_menu_right = "Contact"
+
+# Menus in head and foot of page
+[menu]
+
+  [[menu.main]]
+  name = "Go to digilego"
+  url = "https://digilego.eu"
+  weight = 1
+  identifier = "special"
+
+
+# footer menu left
+  [[menu.footer_left]]
+  name = "European Union"
+  url = "https://ec.europa.eu/programmes/erasmus-plus/"
+  identifier = "eu_cofunded.png"
+
+  [[menu.footer_left]]
+  name = "University of Hull"
+  url = "https://www.hull.ac.uk/"
+  identifier = "hull.svg"
+
+  [[menu.footer_left]]
+  name = "Universität Trier"
+  url = "https://www.uni-trier.de/"
+  identifier = "trier.svg"
+
+  [[menu.footer_left]]
+  name = "National University of Ireland Galway"
+  url = "https://www.nuigalway.ie/"
+  identifier = "galway.png"
+
+  [[menu.footer_left]]
+  name = "LISER"
+  url = "https://liser.lu/"
+  identifier = "liser.png"
+
+
+
+# footer menu middle
+  [[menu.footer_middle]]
+  name = "Team"
+  url = "team"
+
+  [[menu.footer_middle]]
+  name = "Project outline"
+  url = "project"
+
+
+# footer menu right
+  [[menu.footer_right]]
+  name = "info@digilego.eu"
+  url = "mailto:info@digilego.eu"
+  identifier = "email"
+
+  [[menu.footer_right]]
+  name = "Newsletter"
+  url = "https://newsletter.digilego.eu"
+
+  [[menu.footer_right]]
+  name = "Twitter"
+  url = "https://twitter.com/digilego"

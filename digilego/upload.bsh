@@ -1,0 +1,2 @@
+#!/bin/sh
+rsync -vr public/* digi:public_html/project/
