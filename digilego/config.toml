@@ -1,8 +1,8 @@
 baseURL = "https://project.digilego.eu/"
 languageCode = "en-us"
-title = "Digilego Project"
+title = "digilego Project"
 theme = "ananke"
-copyright = "Digilego"
+copyright = "digilego"
 
 DefaultContentLanguage = "en"
 sectionPagesMenu = "main"
@@ -27,7 +27,7 @@ summaryLength = 70
   favicon = "/images/site/favicon.ico"
   site_logo = "/images/site/logo.svg"
   abstract = "Developing Geographic and Environmental Science Methodology Teaching Resources"
-  site_logo_width = 200
+  site_logo_width = 150
   facebook = ""
   twitter = "https://twitter.com/digilego"
   youtube = ""
