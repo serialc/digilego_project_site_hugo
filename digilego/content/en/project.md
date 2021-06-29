@@ -2,8 +2,10 @@
 title: "Project"
 date: 2021-06-01
 description: "Learn more about what the project is working towards"
-featured_image: "/images/site/Statistik.jpg"
+featured_image: "/images/site/stats2.jpg"
 layout: "single"
+menu: main
+
 ---
 
 Geography and Environmental Sciences (G&ES) programmes have diverse skill and method requirements needing specialized training ranging from spatial methods such as computer cartography and GIS via field and laboratory methods to qualitative and quantitative data analysis. Methods training often involves time intensive practical elements which have been particularly impacted by the COVID-19 restrictions highlighting the need for digital materials to complement, supplement and where necessary replace face to face discipline specific methods. Responding to the COVID-19 crisis has led to unnecessary duplication of effort and shown the skills gap experienced by many higher education (HE) academics facing the need to increase use of digital materials. This is a Europe-wide challenge which is not restricted to the current context but relates to a broader need to improve skills and use of digital technologies in HE.

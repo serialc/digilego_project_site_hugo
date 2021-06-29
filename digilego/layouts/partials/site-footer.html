@@ -1,7 +1,7 @@
 <footer class="{{ .Site.Params.background_color_class | default "bg-black" }} bottom-0 w-100 pa3 pt4" role="contentinfo">
   <div class="white-70 w-100 w-70-ns flex flex-wrap center justify-around">
 
-    <div class="w-100 w-50-m w-20-l mh3">
+    <div class="w-100 w-50-m w-25-l ph3 mt4">
       {{ if .Site.Params.footer_menu_left }}
       <div class="f3">{{ site.Params.footer_menu_left }}</div>
       <ul class="list pl1 mt2">
@@ -14,7 +14,7 @@
       {{ end }}
     </div>
 
-    <div class="w-100 w-50-m w-20-l mh3">
+    <div class="w-100 w-50-m w-25-l ph3 mt4">
       {{ if .Site.Params.footer_menu_middle }}
       <div class="f3">{{ site.Params.footer_menu_middle }}</div>
       <ul class="list pl1 mt2">
@@ -25,7 +25,7 @@
       {{ end }}
     </div>
 
-    <div class="w-100 w-50-m w-20-l mh3">
+    <div class="w-100 w-50-m w-25-l ph3 mt4">
       {{ if .Site.Params.footer_menu_right }}
       <div class="f3">{{ site.Params.footer_menu_right }}</div>
       <ul class="list pl1 mt2">
@@ -42,7 +42,7 @@
       {{ end }}
     </div>
 
-    <div class="w-100 w-50-m w-20-l mh3">
+    <div class="w-100 w-50-m w-25-l ph3 mt4">
       {{ with site.Params.site_logo }}
       <img width="{{ site.Params.site_logo_width }}" class="img-fluid" src="{{ . | relURL }}" alt="{{ site.Title }}">
       {{ else }}{{ site.Title }}{{ end }}

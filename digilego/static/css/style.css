@@ -19,4 +19,11 @@ footer a:hover, nav a:hover {
   border-radius: 12px;
 }
 
+.profilepicbox {
+  margin: auto;
+  width: 80%;
+}
 
+.profilepic {
+  border-radius: 50%;
+}
