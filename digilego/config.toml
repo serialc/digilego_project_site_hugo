@@ -11,6 +11,10 @@ enableRobotsTXT = true
 
 summaryLength = 70
 
+# allows mixing md and html responsibly
+[markup.goldmark.renderer]
+unsafe= true
+
 [languages]
   [languages.en]
     weight = 1

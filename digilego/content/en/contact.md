@@ -9,15 +9,13 @@ draft: false
 
 ---
 
-{{< rawhtml >}}
-<div class="mb5">
+{{% rawdiv "mb5" %}}
 
-<p>Please send us your comments or questions by completing the form below.</p>
+Please send us your comments or questions by completing the form below.
 
-<p>Alternatively you can send us an <a href="mailto:info@digilego.eu">email</a>.</p>
+Alternatively you can send us an [email](mailto:info@digilego.eu).
 
-</div>
-{{< /rawhtml >}}
+{{% /rawdiv %}}
 
 
 {{< form-contact action="/php/contact.php"  >}}

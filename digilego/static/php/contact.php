@@ -27,7 +27,7 @@ $message .= "Email: <b>$email</b><br>";
 $message .= "Message:<br><b>$msg</b></body></html>";
 
 # warning, trying to send as an array causes php to insert bad line carriage returns
-# this causes the email to be treated as text rather than html
+# this causes the email to be treated as text rather than html - hence the implode below
 if( mail($to, "digilego contact form: $subject", $message, implode($eol, $headers)) ) {
 
   print('<html><head><meta http-equiv="refresh" content="5; URL=http://project.digilego.eu" /><title>email sent</title></head>');
