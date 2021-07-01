@@ -6,7 +6,7 @@ featured_image: "/images/scenes/owl_watch2.jpg"
 
 # Methodology resources
 
-The digilego project focuses on the development of methodology resources in the goegraphy and environmental science of the following domains.
+The digilego project focuses on the development of methodology resources in geography and environmental science within the following domains.
 
 {{< rawhtml >}}
   <div class="w-100 flex flex-wrap mb5">
@@ -23,12 +23,12 @@ The digilego project focuses on the development of methodology resources in the 
 
   {{% vertcomp image="images/logos/logo_qual.svg" %}}
   ### Qualitative
-  Fieldwork methodologies
+  Qualitative methodology examples...
   {{% /vertcomp %}}
 
   {{% vertcomp image="images/logos/logo_lab.svg" %}}
   ### Lab 
-  Fieldwork methodologies
+  Lab methodology examples...
   {{% /vertcomp %}}
 
   </div>
@@ -40,9 +40,9 @@ The digilego project focuses on the development of methodology resources in the 
 {{< /rawhtml >}} 
 
 
-## Contributing
+## Interested in contributing or participating?
 
-If you are interested in learning more about the project you can follow us on [twitter](https://twitter.com/digilego), subscribe to the newsletter, contact [our team](https://project.digilego.eu/team/)'s particular method lead, or send us a quick [message](https://project.digilego.eu/contact/)!
+If you are interested in learning more about the project you can follow us on [twitter](https://twitter.com/digilego), subscribe to the [newsletter](https://newsletter.digilego.eu/), contact [a team member](https://project.digilego.eu/team/), or send us a quick [message](https://project.digilego.eu/contact/)!
 
 {{< rawhtml >}} 
   </div>
