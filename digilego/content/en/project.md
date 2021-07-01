@@ -2,7 +2,7 @@
 title: "Project"
 date: 2021-06-01
 description: "Learn more about what the project is working towards"
-featured_image: "/images/site/stats2.jpg"
+featured_image: "/images/scenes/stats2.jpg"
 layout: "single"
 menu: main
 

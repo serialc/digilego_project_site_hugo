@@ -1,7 +1,7 @@
 ---
 title: Team
 description: "Meet the team, institutions, and funder of DigiLEGO"
-featured_image: "/images/site/focus_group.jpg"
+featured_image: "/images/scenes/focus_group.jpg"
 layout: "single"
 menu: main
 
@@ -11,11 +11,11 @@ The digilego team consists of individuals from four European institutions partic
 
 {{< rawhtml >}}
   <div class="w-100 flex flex-wrap">
-  {{< profile name="Julia Affolderbach" institute="University of Trier" picture="ja.jpg" >}}Project Lead /<br> Qualitative Lead{{< /profile >}}
-  {{< profile name="Karen Bacon" institute="NUI Galway" picture="kb.jpg" >}}Field Lead{{< /profile >}}
-  {{< profile name="Jane Bunting" institute="University of Hull" picture="jb.jpg" >}}Lab Lead{{< /profile >}}
-  {{< profile name="Cyrille Médard de Chardon" institute="LISER" picture="cmc.jpg" >}}Quantitative Lead{{< /profile >}}
-  {{< profile name="Madeleine Hill" institute="University of Trier" picture="mh.jpg" >}}Project coordinator{{< /profile >}}
+  {{< profile name="Julia Affolderbach" institute="University of Trier" picture="ja.jpg" email="affolderbach@uni-trier.de" >}}Project Lead /<br> Qualitative Lead{{< /profile >}}
+  {{< profile name="Karen Bacon" institute="NUI Galway" picture="kb.jpg" email="karen.bacon@nuigalway.ie">}}Field Lead{{< /profile >}}
+  {{< profile name="Jane Bunting" institute="University of Hull" picture="jb.jpg" email="m.j.bunting@hull.ac.uk">}}Lab Lead{{< /profile >}}
+  {{< profile name="Cyrille de Chardon" institute="LISER" picture="cmc.jpg" email="cyrille.mdc@liser.lu" >}}Quantitative Lead{{< /profile >}}
+  {{< profile name="Madeleine Hill" institute="University of Trier" picture="mh.jpg" email="mhill@digilego.eu" >}}Project coordinator{{< /profile >}}
 
   </div>
 {{< /rawhtml >}} 

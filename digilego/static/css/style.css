@@ -1,16 +1,16 @@
-a, .special {
-  transition: .2s ease
-}
 
 footer a:hover, nav a:hover {
   color: pink;
 }
 
 .special {
-  background-color: #c55a11;
   padding: 5px;
   border-radius: 10px;
   margin-right: 20px;
+}
+
+a.special {
+  transition: .2s ease
 }
 
 .special:hover {
@@ -19,11 +19,25 @@ footer a:hover, nav a:hover {
   border-radius: 12px;
 }
 
-.profilepicbox {
-  margin: auto;
-  width: 80%;
+article a, article a:visited, article a:active {
+  color: #2e75b6;
 }
 
-.profilepic {
-  border-radius: 50%;
-}
+/* digilego colours */
+
+.bg-dl-qual { background-color: #083682}
+.bg-dl-qualdk { background-color: #2e75b6}
+.bg-dl-quallt { background-color: #d7e6f4}
+
+.bg-dl-quant { background-color: #767171}
+.bg-dl-quantdk { background-color: #373232}
+.bg-dl-quantlt { background-color: #e6e5e5}
+
+.bg-dl-lab{ background-color: #c55a11}
+.bg-dl-labdk{ background-color: #982001}
+.bg-dl-lablt{ background-color: #fbe1d0}
+
+.bg-dl-field{ background-color: #70ad47}
+.bg-dl-fielddk{ background-color: #317514}
+.bg-dl-fieldlt{ background-color: #e3f0db}
+

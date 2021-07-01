@@ -1,22 +1,49 @@
 ---
 title: "The digilego Project"
 description: "Developing Geographic and Environmental Science Methodology Teaching Resources"
-featured_image: "/images/site/owl_watch2.jpg"
+featured_image: "/images/scenes/owl_watch2.jpg"
 ---
 
-Some introductory information about the project.
+# Methodology resources
 
-Additional information
+The digilego project focuses on the development of methodology resources in the goegraphy and environmental science of the following domains.
 
-## Outline the four dimensions
+{{< rawhtml >}}
+  <div class="w-100 flex flex-wrap mb5">
 
-- Qualitative
-- Quantitative
-- Lab
-- Field
+  {{% vertcomp image="images/logos/logo_field.svg" %}}
+  ### Field
+  Fieldwork methodology examples...
+  {{% /vertcomp %}}
 
-## Invitation to participate
+  {{% vertcomp image="images/logos/logo_quant.svg" %}}
+  ### Quantitative
+  Statistics, GIS, and data science are some of the methodology resources we'll be developing.
+  {{% /vertcomp %}}
 
-{{< rawhtml >}} raw text {{< /rawhtml >}}
+  {{% vertcomp image="images/logos/logo_qual.svg" %}}
+  ### Qualitative
+  Fieldwork methodologies
+  {{% /vertcomp %}}
 
-## other aspects?
+  {{% vertcomp image="images/logos/logo_lab.svg" %}}
+  ### Lab 
+  Fieldwork methodologies
+  {{% /vertcomp %}}
+
+  </div>
+
+</article>
+
+<article class="ph3 ph5-l pv3 pv4-l f4 tc-l center lh-copy bg-dl-quallt">
+  <div class="mw8">
+{{< /rawhtml >}} 
+
+
+## Contributing
+
+If you are interested in learning more about the project you can follow us on [twitter](https://twitter.com/digilego), subscribe to the newsletter, contact [our team](https://project.digilego.eu/team/)'s particular method lead, or send us a quick [message](https://project.digilego.eu/contact/)!
+
+{{< rawhtml >}} 
+  </div>
+{{< /rawhtml >}} 

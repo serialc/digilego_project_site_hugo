@@ -43,8 +43,8 @@
     </div>
 
     <div class="w-100 w-50-m w-25-l ph3 mt4">
-      {{ with site.Params.site_logo }}
-      <img width="{{ site.Params.site_logo_width }}" class="img-fluid" src="{{ . | relURL }}" alt="{{ site.Title }}">
+      {{ with site.Params.site_logo_symbol }}
+      <img width="{{ site.Params.site_footer_logo_width }}" class="img-fluid" src="{{ . | relURL }}" alt="{{ site.Title }}">
       {{ else }}{{ site.Title }}{{ end }}
 
       {{ with site.Params.abstract }}

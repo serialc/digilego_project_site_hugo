@@ -1,6 +1,6 @@
 ---
 title: Contact
-featured_image: "images/site/drone.jpg"
+featured_image: "images/scenes/drone.jpg"
 omit_header_text: true
 description: We'd love to hear from you
 type: page
@@ -9,6 +9,15 @@ draft: false
 
 ---
 
-Needs to be activated still
+{{< rawhtml >}}
+<div class="mb5">
 
-{{< form-contact action="https://project.digilego.eu/php/contact.php"  >}}
+<p>Please send us your comments or questions by completing the form below.</p>
+
+<p>Alternatively you can send us an <a href="mailto:info@digilego.eu">email</a>.</p>
+
+</div>
+{{< /rawhtml >}}
+
+
+{{< form-contact action="/php/contact.php"  >}}
