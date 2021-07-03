@@ -9,13 +9,13 @@ draft: false
 
 ---
 
-{{% rawdiv "mb5" %}}
+{{% div "mb5" %}}
 
 Please send us your comments or questions by completing the form below.
 
 Alternatively you can send us an [email](mailto:info@digilego.eu).
 
-{{% /rawdiv %}}
+{{% /div %}}
 
 
 {{< form-contact action="/php/contact.php"  >}}
