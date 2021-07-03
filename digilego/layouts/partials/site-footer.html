@@ -1,4 +1,4 @@
-<footer class="{{ .Site.Params.background_color_class | default "bg-black" }} bottom-0 w-100 pa3 pt4" role="contentinfo">
+<footer class="{{ .Site.Params.background_color_class | default "bg-black" }} bottom-0 w-100 pa3 pt4 pb6" role="contentinfo">
   <div class="white-70 w-100 w-70-ns flex flex-wrap center justify-around">
 
     <div class="w-100 w-50-m w-25-l ph3 mt4">
@@ -54,5 +54,10 @@
       <div class="mt3">&copy; {{ with .Site.Copyright | default .Site.Title }} {{ . | safeHTML }} {{ now.Format "2006"}} {{ end }}</div>
     </div>
 
+    <div class="pa3 mt4 f5 center tc">
+      {{ with site.Params.footer_bottom }}
+        {{ site.Params.footer_bottom }}
+      {{ end }}
+    </div>
   </div>
 </footer>
