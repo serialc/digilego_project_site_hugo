@@ -7,7 +7,7 @@ menu: main
 
 ---
 
-The digilego project is an EU co-funded collaboration between the Faculty of Spatial and Environmental Sciences at Trier University, the LISER's Urban Development and Mobility department, the Department of Geography, Geology and Environment at the University of Hull and **[Karen?]** at the National University of Ireland Galway.
+The digilego project is an EU co-funded collaboration between the [Faculty of Spatial and Environmental Sciences](https://www.uni-trier.de/en/university/faculties-and-departments/faculty-vi/the-department) at Trier University, LISER's department of [Urban Development and Mobility](https://www.liser.lu/?type=module&id=149), the [Department of Geography, Geology and Environment](https://www.hull.ac.uk/faculties/departments/department-of-geography-geology-and-environment) at the University of Hull and **[Karen?]** at the National University of Ireland Galway.
 
 Our team consists of a large group of experts covering a broad range of fields from environmental sciences, geology, to physical and human geography as well as experts in higher education pedagogy and staff from the partners' teaching and learning centres.
 
