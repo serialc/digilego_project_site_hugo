@@ -7,7 +7,7 @@ menu: main
 
 ---
 
-The digilego project is an EU co-funded collaboration between the [Faculty of Spatial and Environmental Sciences](https://www.uni-trier.de/en/university/faculties-and-departments/faculty-vi/the-department) at Trier University, LISER's department of [Urban Development and Mobility](https://www.liser.lu/?type=module&id=149), the [Department of Geography, Geology and Environment](https://www.hull.ac.uk/faculties/departments/department-of-geography-geology-and-environment) at the University of Hull and **[Karen?]** at the National University of Ireland Galway.
+The digilego project is an EU co-funded collaboration between the [Faculty of Spatial and Environmental Sciences](https://www.uni-trier.de/en/university/faculties-and-departments/faculty-vi/the-department) at Trier University, LISER's department of [Urban Development and Mobility](https://www.liser.lu/?type=module&id=149), the [Department of Geography, Geology and Environment](https://www.hull.ac.uk/faculties/departments/department-of-geography-geology-and-environment) at the University of Hull, and the [School of Natural Sciences](http://www.nuigalway.ie/science-engineering/school-of-natural-sciences/) at the National University of Ireland Galway.
 
 Our team consists of a large group of experts covering a broad range of fields from environmental sciences, geology, to physical and human geography as well as experts in higher education pedagogy and staff from the partners' teaching and learning centres.
 
@@ -20,7 +20,7 @@ The digilego team consists of individuals from four European institutions partic
   {{< profile name="Karen Bacon" institute="NUI Galway" picture="kb.jpg" email="karen.bacon@nuigalway.ie">}}Field Lead{{< /profile >}}
   {{< profile name="Jane Bunting" institute="University of Hull" picture="jb.jpg" email="m.j.bunting@hull.ac.uk">}}Lab Lead{{< /profile >}}
   {{< profile name="Cyrille de Chardon" institute="LISER" picture="cmc.jpg" email="cyrille.mdc@liser.lu" >}}Quantitative Lead{{< /profile >}}
-  {{< profile name="Madeleine Hill" institute="University of Trier" picture="mh.jpg" email="mhill@digilego.eu" >}}Project coordinator{{< /profile >}}
+  {{< profile name="Madeleine Hill" institute="University of Trier" picture="mh.jpg" email="mhill@digilego.eu" >}}Project Coordinator{{< /profile >}}
 
   </div>
 {{< /rawhtml >}} 
