@@ -7,11 +7,17 @@ featured_image: "/images/scenes/satellite.jpg"
 
 ---
 
-The [ECTQG](http://www.ectqg.eu/) is a biennial European Colloquium on Theoretical and Quantitative Geography. This year the conference will be held either virtually or in a hybrid format in [Manchester](https://ectqg2021.wordpress.com/) on November 3-5, 2021.
+The [ECTQG](http://www.ectqg.eu/) is a biennial **European Colloquium on Theoretical and Quantitative Geography**. This year the conference will be held either virtually or in a hybrid format in [Manchester](https://ectqg2021.wordpress.com/) on November 3-5, 2021.
 
 Digilego is organizing a special session titled **Facilitating quantitative methods pedagogy: Digitalization, innovation, and future needs**.
 
-We invite you to read our call below and submit an abstract. Please see the submission platform and criteria specified on the [ECTQG submission page](https://ectqg2021.wordpress.com/92-2/).
+The session is organized by:
+
+- Jane Bunting (University of Hull)
+- Oliver Gronz (University of Trier)
+- Cyrille Médard de Chardon (LISER)
+
+We invite you to read our call **below** and submit an abstract. Please see the submission platform and criteria specified on the [ECTQG submission page](https://ectqg2021.wordpress.com/92-2/).
 
 **Note the submission deadline is September 10, 2021.**
 
