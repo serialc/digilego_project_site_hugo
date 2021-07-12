@@ -39,22 +39,23 @@ The digilego project focuses on the development of methodology resources in geog
 
 {{% vertcomp image="images/logos/logo_field.svg" %}}
 ### Field
-Fieldwork methodology examples...
+We will train a new cohort of university teaching staff how to create and deliver virtual and blended field trips, produce high-quality virtual field trips, and produce a series of building blocks, manuals and how-to guides that will facilitate the creation of targeted resources by university teaching staff.
 {{% /vertcomp %}}
 
 {{% vertcomp image="images/logos/logo_quant.svg" %}}
 ### Quantitative
-Statistics, GIS, and data science are some of the methodology resources we'll be developing.
+Spatial and temporal analysis, principles of sampling, properties of data and measurement, presentation of data via graphs, plots and maps, Geographic Information Systems (GIS), and a wide range of terminology and concepts related to surveying, mapping, data handling, descriptive and inferential statistics and critical appraisal of quantitative results.
 {{% /vertcomp %}}
 
 {{% vertcomp image="images/logos/logo_qual.svg" %}}
 ### Qualitative
-Methods resources will cover standard social science methods such as interviews, focus groups, archive methods, textual analysis, visual representations, and central themes related to research contexts such as decolonizing the curriculum, positionality, and research ethics
+Methods resources will cover standard social science methods such as interviews, focus groups, archive methods, textual analysis, visual representations, and central themes related to research contexts such as decolonizing the curriculum, positionality, and research ethics.
 {{% /vertcomp %}}
 
 {{% vertcomp image="images/logos/logo_lab.svg" %}}
 ### Lab 
-Lab methodology examples...
+Lab methodology resources will facilitate analysis training of diverse topics, such as: water and sediment, stereoscopic aerial photography, and field surveying and data gathering. We will be generating a mixture of OERs including videos, images, unpublished datasets, editable and fixed documentation covering lab methods from aspects of lab safety and set up to analytical aspects.
+
 {{% /vertcomp %}}
 
 {{< /div >}}

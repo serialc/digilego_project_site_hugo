@@ -25,13 +25,20 @@ The digilego team consists of individuals from four European institutions partic
   </div>
 {{< /rawhtml >}} 
 
-## Institutional contributing partners
+## Collaborators
 
 {{< rawhtml >}}
   <div class="w-100 flex flex-wrap mt5">
-  {{< profile name="Geoffrey Caruso" institute="LISER" picture="placeholder/satellite.jpg" email="" >}}{{< /profile >}}
-  {{< profile name="Sabine Dörry" institute="LISER" picture="placeholder/owl.jpg" email="" >}}{{< /profile >}}
+  {{< profile name="Dagmar Stengel" institute="NUIG" picture="placeholder/owl.jpg" email="" >}}{{< /profile >}}
   {{< profile name="Gerald Aiken" institute="LISER" picture="placeholder/drone.jpg" email="" >}}{{< /profile >}}
+  {{< profile name="Geoffrey Caruso" institute="LISER" picture="placeholder/satellite.jpg" email="" >}}{{< /profile >}}
+  {{< profile name="Graham Scott" institute="University of Hull" picture="placeholder/satellite.jpg" email="" >}}{{< /profile >}}
+  {{< profile name="Leif Mönter" institute="University of Trier" picture="placeholder/owl.jpg" email="" >}}{{< /profile >}}
+  {{< profile name="Michael Buhl" institute="University of Trier" picture="placeholder/satellite.jpg" email="" >}}{{< /profile >}}
+  {{< profile name="Oliver Gronz" institute="University of Trier" picture="placeholder/drone.jpg" email="" >}}{{< /profile >}}
+  {{< profile name="Ruth Slatter" institute="University of Hull" picture="placeholder/drone.jpg" email="" >}}{{< /profile >}}
+  {{< profile name="Sabine Dörry" institute="LISER" picture="placeholder/owl.jpg" email="" >}}{{< /profile >}}
+  {{< profile name="Will Mayes" institute="University of Hull" picture="placeholder/owl.jpg" email="" >}}{{< /profile >}}
   </div>
 {{< /rawhtml >}} 
 
