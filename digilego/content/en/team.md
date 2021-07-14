@@ -16,22 +16,29 @@ The digilego team consists of individuals from four European institutions partic
 
 {{< rawhtml >}}
   <div class="w-100 flex flex-wrap mt5">
-  {{< profile name="Julia Affolderbach" institute="University of Trier" picture="ja.jpg" email="affolderbach@uni-trier.de" >}}Project Lead /<br> Qualitative Lead{{< /profile >}}
+  {{< profile name="Julia Affolderbach" institute="Trier University" picture="ja.jpg" email="affolderbach@uni-trier.de" >}}Project Lead /<br> Qualitative Lead{{< /profile >}}
   {{< profile name="Karen Bacon" institute="NUI Galway" picture="kb.jpg" email="karen.bacon@nuigalway.ie">}}Field Lead{{< /profile >}}
   {{< profile name="Jane Bunting" institute="University of Hull" picture="jb.jpg" email="m.j.bunting@hull.ac.uk">}}Lab Lead{{< /profile >}}
   {{< profile name="Cyrille de Chardon" institute="LISER" picture="cmc.jpg" email="cyrille.mdc@liser.lu" >}}Quantitative Lead{{< /profile >}}
-  {{< profile name="Madeleine Hill" institute="University of Trier" picture="mh.jpg" email="mhill@digilego.eu" >}}Project Coordinator{{< /profile >}}
+  {{< profile name="Madeleine Hill" institute="Trier University" picture="mh.jpg" email="mhill@digilego.eu" >}}Project Coordinator{{< /profile >}}
 
   </div>
 {{< /rawhtml >}} 
 
-## Institutional contributing partners
+## Collaborators
 
 {{< rawhtml >}}
   <div class="w-100 flex flex-wrap mt5">
-  {{< profile name="Geoffrey Caruso" institute="LISER" picture="placeholder/satellite.jpg" email="" >}}{{< /profile >}}
-  {{< profile name="Sabine Dörry" institute="LISER" picture="placeholder/owl.jpg" email="" >}}{{< /profile >}}
+  {{< profile name="Dagmar Stengel" institute="NUIG" picture="placeholder/owl.jpg" email="" >}}{{< /profile >}}
   {{< profile name="Gerald Aiken" institute="LISER" picture="placeholder/drone.jpg" email="" >}}{{< /profile >}}
+  {{< profile name="Geoffrey Caruso" institute="LISER" picture="placeholder/satellite.jpg" email="" >}}{{< /profile >}}
+  {{< profile name="Graham Scott" institute="University of Hull" picture="placeholder/satellite.jpg" email="" >}}{{< /profile >}}
+  {{< profile name="Leif Mönter" institute="Trier University" picture="placeholder/owl.jpg" email="" >}}{{< /profile >}}
+  {{< profile name="Michael Buhl" institute="Trier University" picture="placeholder/satellite.jpg" email="" >}}{{< /profile >}}
+  {{< profile name="Oliver Gronz" institute="Trier University" picture="placeholder/drone.jpg" email="" >}}{{< /profile >}}
+  {{< profile name="Ruth Slatter" institute="University of Hull" picture="placeholder/drone.jpg" email="" >}}{{< /profile >}}
+  {{< profile name="Sabine Dörry" institute="LISER" picture="placeholder/owl.jpg" email="" >}}{{< /profile >}}
+  {{< profile name="Will Mayes" institute="University of Hull" picture="placeholder/owl.jpg" email="" >}}{{< /profile >}}
   </div>
 {{< /rawhtml >}} 
 
@@ -40,7 +47,7 @@ The digilego team consists of individuals from four European institutions partic
 The five following institutions are co-funding this research project.
 
 {{< institute name="European Union" institute="EU" picture="eu_cofunded2.jpg" >}}Erasmus plus programme. <a href="https://ec.europa.eu/programmes/erasmus-plus/">Visit the website</a>{{< /institute >}}
-{{< institute name="University of Trier" institute="Germany" picture="trier.svg" >}}<a href="https://www.uni-trier.de/">Visit the website</a>{{< /institute >}}
+{{< institute name="Trier University" institute="Germany" picture="trier.svg" >}}<a href="https://www.uni-trier.de/">Visit the website</a>{{< /institute >}}
 {{< institute name="NUI Galway" institute="Ireland" picture="galway.png" >}}<a href="https://www.nuigalway.ie/">Visit the website</a>{{< /institute >}}
 {{< institute name="University of Hull " institute="England" picture="hull2.jpg" >}}<a href="https://www.hull.ac.uk/">Visit the website</a>{{< /institute >}}
 {{< institute name="Luxembourg Institute of Socio-Economic Research (LISER)" institute="Luxembourg" picture="liser2.png" >}}<a href="http://liser.lu">Visit the website</a>{{< /institute >}}

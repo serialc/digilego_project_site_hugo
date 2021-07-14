@@ -11,6 +11,8 @@ The [ECTQG](http://www.ectqg.eu/) is a biennial **European Colloquium on Theoret
 
 Digilego is organizing a special session titled **Facilitating quantitative methods pedagogy: Digitalization, innovation, and future needs**.
 
+<!--more-->
+
 The session is organized by:
 
 - Jane Bunting (University of Hull)
