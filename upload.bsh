@@ -2,4 +2,4 @@
 rm -rf digilego/public/*
 cd digilego
 hugo
-rsync -vr public/* digi:public_html/project/
+rsync -vrz public/* digi:public_html/project/
