@@ -25,6 +25,10 @@ article a, article a:visited, article a:active {
 
 /* forms and input */
 
+input[type="submit"] {
+  cursor: pointer;
+}
+
 .radio-toolbar {
   margin-bottom: 1em;
 }
