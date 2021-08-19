@@ -18,6 +18,20 @@
     <label class="{{ $.Scratch.Get "labelClasses" }}" for="message">{{ i18n "message" }}</label>
     <textarea id="message" name="message" class="{{ $.Scratch.Get "inputClasses" }} h4" aria-labelledby="message"></textarea>
 
+    <img src="/images/misc/captcha_figure.jpg" style="width:150px; height:150px;float:left;padding: 1em 1em 1em 0;"> 
+
+    <p class="{{ $.Scratch.Get "labelClasses" }}">We need to check you're human:</p>
+    <small class="f6 black-60 db mb2">What animal is the adjacent figure?.</small>
+
+    <div class="radio-toolbar">
+      <input type="radio" id="as1" value="cow" name="antispam" required aria-labelledby="antispam"/>
+      <label for="as1" class="">Cow</label>
+      <input type="radio" id="as2" value="dog" name="antispam" required aria-labelledby="antispam"/>
+      <label for="as2" class="">Dog</label>
+      <input type="radio" id="as3" value="cat" name="antispam" required aria-labelledby="antispam"/>
+      <label for="as3" class="">Cat</label>
+    </div>
+
     <input class="db w-100 mv2 white pa3 bn hover-shadow hover-bg-black bg-animate bg-black" type="submit" value="{{ i18n "send" }}" />
 
 </form>

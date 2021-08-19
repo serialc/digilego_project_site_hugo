@@ -7,6 +7,18 @@ $name = $_POST['name'];
 $email = $_POST['email'];
 $subject = $_POST['subject'];
 $msg = nl2br($_POST['message']);
+$spam = $_POST['antispam'];
+
+# antispam check
+if( strcmp("as1", $spam) !== 0 ) {
+  header("HTTP/1.1 500 OK");
+  print('<html><head><title>email not sent</title></head>');
+  print('<body><h1>Email not sent!</h1><p>Sorry about that!</p>');
+  print('<body><h1>It looks like you\'re having a hard time figuring out the correct answer to our test question.</p>');
+  print('<p>Could you please send an email to info@digilego.eu letting us know why you were reaching out?<p>');
+  print('<p>Sorry for the inconvenience.</p>');
+  print('</body></html>');
+}
 
 # options
 $to = "info@digilego.eu";

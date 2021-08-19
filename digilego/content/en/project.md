@@ -19,7 +19,7 @@ Individual universities offer unique programmes in G&ES, built around local need
 
 ![OER types](/images/figures/open_education_resources.png)
 
-The project partners will untertake scoping studies of best practices, competencies and needs in G&ES methods training. We will create and build a range of OERs for G&ES methods teaching including self-learning manuals on how to create online resources, templates, sample material and packages of teaching units. We will also build a participative web platform for dissemination. All OERs and the web platform will be tested using internal and external audiences. A number of methods specific training events focused on digital technology will enhance digital capacities and build competencies across partner institutions.
+The project partners will undertake scoping studies of best practices, competencies and needs in G&ES methods training. We will create and build a range of OERs for G&ES methods teaching including self-learning manuals on how to create online resources, templates, sample material and packages of teaching units. We will also build a participative web platform for dissemination. All OERs and the web platform will be tested using internal and external audiences. A number of methods specific training events focused on digital technology will enhance digital capacities and build competencies across partner institutions.
 
 ## Project organization
 

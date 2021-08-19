@@ -11,6 +11,8 @@ Digilego has chosen a new logo. This turned out to be a longer process than expe
 
 The final two designs for consideration were the windmill and hourglass designs below.
 
+<!--more-->
+
 ![Windmill and hourglass digilego logo design candidates](final_candidates.svg)
 
 Internally we had a bit of a stalemate regarding a final design.
@@ -23,7 +25,7 @@ The results were clear.
 The selection of a logo went through many iterations. There were a few guidelines on which we were basing our designs:
 
 - Upbeat / fun
-- Colourfull
+- Colourful
 - Had four elements representing the four workpackages
 
 Our final version, with text is below:
