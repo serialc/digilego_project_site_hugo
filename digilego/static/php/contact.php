@@ -9,15 +9,20 @@ $subject = $_POST['subject'];
 $msg = nl2br($_POST['message']);
 $spam = $_POST['antispam'];
 
+# debug and testing
+#print(nl2br(print_r($_POST), true));
+
 # antispam check
-if( strcmp("as1", $spam) !== 0 ) {
+if( strcmp("cow", $spam) !== 0 ) {
   header("HTTP/1.1 500 OK");
   print('<html><head><title>email not sent</title></head>');
   print('<body><h1>Email not sent!</h1><p>Sorry about that!</p>');
-  print('<body><h1>It looks like you\'re having a hard time figuring out the correct answer to our test question.</p>');
-  print('<p>Could you please send an email to info@digilego.eu letting us know why you were reaching out?<p>');
+  print('<p>It looks like you\'re having a hard time figuring out the correct answer to our test question.</p>');
+  print('<p>Could you please send an email to info@digilego.eu letting us know why you were reaching out?</p>');
   print('<p>Sorry for the inconvenience.</p>');
   print('</body></html>');
+
+  exit();
 }
 
 # options
@@ -52,7 +57,7 @@ if( mail($to, "digilego contact form: $subject", $message, implode($eol, $header
   header("HTTP/1.1 500 OK");
   print('<html><head><title>email not sent</title></head>');
   print('<body><h1>Email not sent!</h1><p>Sorry about that!</p>');
-  print('<p>Could you please send an email to info@digilego.eu letting us know why you were reaching out?<p>');
+  print('<p>Could you please send an email to info@digilego.eu letting us know why you were reaching out?</p>');
   print('<p>Sorry for the inconvenience.</p>');
   print('<p>If you\'re willing, could you please also send the following message:</p>');
   nl2br(print_r(error_get_last(), true));
