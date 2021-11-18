@@ -18,7 +18,7 @@ The final two designs for consideration were the windmill and hourglass designs 
 Internally we had a bit of a stalemate regarding a final design.
 Thankfully the Twitter community quickly settled the discussion:
 
-[![Twitter Poll](tweet_poll.png)](https://twitter.com/serialc/status/1410161607917846528)
+[![Twitter Poll](tweet_poll.jpg)](https://twitter.com/serialc/status/1410161607917846528)
 
 The results were clear.
 

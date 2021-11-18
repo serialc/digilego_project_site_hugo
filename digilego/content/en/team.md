@@ -29,16 +29,22 @@ The digilego team consists of individuals from four European institutions partic
 
 {{< rawhtml >}}
   <div class="w-100 flex flex-wrap mt5">
-  {{< profile name="Dagmar Stengel" institute="NUIG" picture="placeholder/owl.jpg" email="" >}}{{< /profile >}}
   {{< profile name="Gerald Aiken" institute="LISER" picture="placeholder/drone.jpg" email="" >}}{{< /profile >}}
-  {{< profile name="Geoffrey Caruso" institute="LISER" picture="placeholder/satellite.jpg" email="" >}}{{< /profile >}}
-  {{< profile name="Graham Scott" institute="University of Hull" picture="placeholder/satellite.jpg" email="" >}}{{< /profile >}}
-  {{< profile name="Leif Mönter" institute="Trier University" picture="placeholder/owl.jpg" email="" >}}{{< /profile >}}
   {{< profile name="Michael Buhl" institute="Trier University" picture="placeholder/satellite.jpg" email="" >}}{{< /profile >}}
-  {{< profile name="Oliver Gronz" institute="Trier University" picture="placeholder/drone.jpg" email="" >}}{{< /profile >}}
-  {{< profile name="Ruth Slatter" institute="University of Hull" picture="placeholder/drone.jpg" email="" >}}{{< /profile >}}
+  {{< profile name="Geoffrey Caruso" institute="LISER" picture="collaborators/geoffrey_caruso.jpg" email="" >}}{{< /profile >}}
   {{< profile name="Sabine Dörry" institute="LISER" picture="placeholder/owl.jpg" email="" >}}{{< /profile >}}
+  {{< profile name="Oliver Gronz" institute="Trier University" picture="placeholder/drone.jpg" email="" >}}{{< /profile >}}
+  {{< profile name="Paula Hild" institute="Trier University" picture="placeholder/owl.jpg" email="" >}}{{< /profile >}}
+  {{< profile name="Rebekka Kanesu" institute="Trier University" picture="collaborators/Rebekka_Kanesu.png" email="" >}}{{< /profile >}}
+  {{< profile name="Sara Larijani" institute="Trier University" picture="collaborators/Sara_Larijani.png" email="" >}}{{< /profile >}}
+  {{< profile name="Nadine Scharfenort" institute="Trier University" picture="placeholder/owl.jpg" email="" >}}{{< /profile >}}
+  {{< profile name="Graham Scott" institute="University of Hull" picture="placeholder/satellite.jpg" email="" >}}{{< /profile >}}
+  {{< profile name="Ruth Slatter" institute="University of Hull" picture="placeholder/drone.jpg" email="" >}}{{< /profile >}}
+  {{< profile name="Dagmar Stengel" institute="NUIG" picture="placeholder/owl.jpg" email="" >}}{{< /profile >}}
   {{< profile name="Will Mayes" institute="University of Hull" picture="placeholder/owl.jpg" email="" >}}{{< /profile >}}
+  {{< profile name="Kate Molloy" institute="NUIG" picture="placeholder/satellite.jpg" email="">}}Involved in the <a href='https://edtl.blog'>EDTL project</a>{{< /profile >}}
+  {{< profile name="Leif Mönter" institute="Trier University" picture="placeholder/owl.jpg" email="" >}}{{< /profile >}}
+  {{< profile name="Sahar Zavareh" institute="Trier University" picture="placeholder/drone.jpg" email="" >}}{{< /profile >}}
   </div>
 {{< /rawhtml >}} 
 
