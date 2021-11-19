@@ -2,3 +2,4 @@ digilego/themes
 digilego/public 
 *.swp
 google*.html
+.Rhistory

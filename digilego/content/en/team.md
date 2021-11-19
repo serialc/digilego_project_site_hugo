@@ -33,6 +33,7 @@ The digilego team consists of individuals from four European institutions partic
   {{< profile name="Gerald Aiken" institute="LISER" picture="placeholder/drone.jpg" email="" >}}{{< /profile >}}
   {{< profile name="Geoffrey Caruso" institute="LISER" picture="placeholder/satellite.jpg" email="" >}}{{< /profile >}}
   {{< profile name="Graham Scott" institute="University of Hull" picture="placeholder/satellite.jpg" email="" >}}{{< /profile >}}
+  {{< profile name="Kate Molloy" institute="NUIG" picture="placeholder/satellite.jpg" email="">}}Involved in the <a href='https://edtl.blog'>EDTL project</a>{{< /profile >}}
   {{< profile name="Leif Mönter" institute="Trier University" picture="placeholder/owl.jpg" email="" >}}{{< /profile >}}
   {{< profile name="Michael Buhl" institute="Trier University" picture="placeholder/satellite.jpg" email="" >}}{{< /profile >}}
   {{< profile name="Oliver Gronz" institute="Trier University" picture="placeholder/drone.jpg" email="" >}}{{< /profile >}}
