@@ -1,0 +1,48 @@
+h1 {
+  margin-bottom: 1em;
+}
+
+.tl {
+  font-size: 1.2em;
+}
+
+.w33, .w40, .w50, .w66, .w75 {
+  display: inline-block;
+}
+
+.w75 { width: 75%; }
+.w66 { width: 66%; }
+.w50 { width: 50%; }
+.w40 { width: 40%; }
+.w33 { width: 33%; }
+
+.source {
+  font-size: 0.8em;
+  position: absolute;
+  bottom: 12px;
+  margin-right: 5em;
+}
+
+.icon {
+  width: 100px;
+  height: 100px;
+  float: left;
+  margin: 0 15px;
+}
+
+.icon > img {
+  width: 80%;
+  height: 80%;
+}
+
+.source:before {
+  content: "Source: ";
+}
+
+.pull-left, .pull-right {
+  text-align: left;
+}
+
+.center {
+  text-align: center;
+}
