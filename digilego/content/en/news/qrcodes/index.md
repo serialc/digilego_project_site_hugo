@@ -50,7 +50,7 @@ Why would you want to use a QR code? Typing a URL or website address can be time
 To start, however, let's explore some common applications.
 
 The most common application of QR codes is the providing of a link to an online resource. So, for example, if you want to provide more information regarding an event on a poster, or perhaps about a course on a syllabus, you can add the QR code and people will be directed to the website of interest and the additional information, or even a registration form. 
-Depending on how you integrate the URL used by your QR code, you can also use it carry out online operations, such measure the attention the poster is getting (or at least the QR code uses). This intermittent aspect between the user activiting the QR code from their camera app to the content being revealed allows some powerful possibilities, but also exploitation. We will get to why this is the case soon.
+Depending on how you integrate the URL used by your QR code, you can also use it to carry out online operations, such measure the attention the poster is getting (or at least the QR code uses). This intermittent aspect between the user activiting the QR code from their camera app to the content being revealed allows some powerful possibilities, but also exploitation. We will get to why this is the case soon.
 
 ![figure of camera, QR code, server processing, and result](imgs/qrcode_process.svg "The three typical stages of the QR code containing a URL: Decoding, processing of request, and displaying of content.")
 
@@ -102,9 +102,9 @@ There are many, many online services that will convert your data payload into a 
 
 As we've explained QR codes are just data that your, typically, smart phone will decide what to do with, such as open a valid URL in a browser. Most free QR code generator websites are either trying to advertise to you, simply selling a service, collecting emails, or gathering information on who and how many people are using the QR code you've created. "How are they collecting QR code user information?" you may be asking?
 
-As we showed in the [section](#qr-codes-applications) QR codes, particularly those for URLs, connect to a server, then send back the data requested. However, it's common for online QR services to forwards your request. This means that your QR code points to their server, they then look up where they should redirect you, and then send you there to your expected site.
+As we showed in the [section](#qr-codes-applications) QR codes, particularly those for URLs, connect to a server, then send back the data requested. However, it's common for online QR services to forward your request. This means that your QR code points to their server, they then look up where they should redirect you, and then send you there to your expected site.
 
-This has a few potential problems. If the service stops operating or starts charging a fee you may then wish to you had used a direct URL. Additionally, while you are temporarily 'visiting' their site to retrieve the correct destination, your browser may be sharing some information that may allow tracking or counting of visitors.
+This has a few potential problems. If the service stops operating or starts charging a fee you may then wish you had used a direct URL. Additionally, while you are temporarily 'visiting' their site to retrieve the correct destination, your browser may be sharing some information that may allow tracking or counting of visitors.
 
 These types of QR codes are called **dynamic**, which refers to their benefit, which is that if you have a QR code deployed on, for example, bicycles, documents, posters, etc... you can in the future redirect them to a new page as needed. **Static** QR codes are those that point directly to a URL.
 
@@ -224,7 +224,7 @@ Test out the resulting QR code from the Python code above:
 
 #### WiFi registration
 
-Like the email example above, WiFi registration requires data contain a specific prefix. The start of a WiFi configuration message must contain "WIFI:". What follows is more systematic than for the email QR code, containing key and value pairs.
+Like the email example above, WiFi registration requires that the data contain a specific prefix. The start of a WiFi configuration message must contain "WIFI:". What follows is more systematic than for the email QR code, containing key and value pairs.
 
 * Each key and value are separated by a ':' (colon)
 * Each key:value pair is separated by a ';' (semi-colon)
