@@ -20,7 +20,7 @@ The workshop is directed at higher education teaching staff and those with teach
 
 To register, please email <a href="mailto:mhill@digilego.eu">Madeleine Hill</a> providing her your name, affiliation and role. 
 
-[![Flyers on door](flyers_on_door.jpg)](LTTA_decolonising_V5.pdf)**.
+[![Flyers on door](flyers_on_door.jpg)](LTTA_decolonising_V5.pdf)
 
 ## Guest speakers
 
