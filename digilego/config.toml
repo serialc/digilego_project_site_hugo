@@ -35,6 +35,7 @@ unsafe= true
   site_footer_logo_width = 150
   abstract = "Developing Geographic and Environmental Science Methodology Teaching Resources"
   footer_bottom = "The creation of these resources has been (partially) funded by the ERASMUS+ grant program of the European Union under grant no. 2020 1 DE01 KA226 005814. Neither the European Commission nor the project's national funding agency DAAD are responsible for the content or liable for any losses or damage resulting of the use of these resources."
+  disable_share = true
   facebook = ""
   twitter = "https://twitter.com/digilego"
   youtube = ""

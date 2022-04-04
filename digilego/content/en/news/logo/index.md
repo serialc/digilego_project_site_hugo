@@ -3,7 +3,7 @@ title: "Logo selection"
 date: 2021-07-01T20:22:57+02:00
 draft: false 
 author: "Cyrille Médard de Chardon"
-featured_image: "/images/scenes/cartography.jpg"
+featured_image: "/images/scenes/maps.jpg"
 
 ---
 

@@ -11,11 +11,20 @@ draft: false
 
 {{% div "mb5" %}}
 
-Please send us your comments or questions by completing the form below.
-
-Alternatively you can send us an [email](mailto:info@digilego.eu).
+Please send us your comments or questions by email to [info@digilego.eu](mailto:info@digilego.eu).
 
 {{% /div %}}
 
+<!-- removed due to too much spam
 
-{{< form-contact action="/php/contact.php"  >}}
+    {{% div "mb5" %}}
+
+    Please send us your comments or questions by completing the form below.
+
+    Alternatively you can send us an [email](mailto:info@digilego.eu).
+
+    {{% /div %}}
+
+
+     {{< form-contact action="/php/contact.php"  >}}
+ -->
