@@ -3,3 +3,6 @@ rm -rf digilego/public/*
 cd digilego
 hugo
 rsync -vrz public/* digi:public_html/project/
+echo "\n\n###############################################################################"
+echo "# REMINDER: This process adds data to the server but does not delete content. #"
+echo "###############################################################################\n\n"
