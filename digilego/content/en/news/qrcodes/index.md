@@ -58,6 +58,15 @@ Regardless, integrating QR codes into online interactions can be diverse and pow
 
 ![Picture of locking mechanism on a shared bicycle](imgs/mobike.jpg "A mobike activation QR code - tying the physical to the digital.")
 
+#### QR code risks
+
+QR codes make it quick and easy to visit sites, send emails, connect to WiFi networks, open locations in a mapping application and other purposes.
+Just like any link provided in an email, or a free WiFi network being available, it's important to double check the validity and security of the action the QR code wants to take.
+This means giving a quick look at the URL you are about to be directed to, or considering whether that WiFi is trustworthy, seeing to whom the email will be sent and what information you're sending, etc... 
+
+QR codes are powerful but as a result require a bit of caution in their use.
+
+
 ### Origins
 
 The QR code is an evolution on barcodes that provide additional versatility, data capacity, and robustness. We will explore barcodes first as they are simpler to demonstrate the concepts that are also present in QR codes.
