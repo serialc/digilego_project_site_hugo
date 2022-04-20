@@ -7,13 +7,20 @@ featured_image: "/images/scenes/satellite.jpg"
 
 ---
 
-This post provides an example online education resource (OER), which is one of the main output objectives of the digilego project. This project is creating OER in four geography and environmental science methodology work packages: qualitative, quantitative, field, and lab. While different [types](https://project.digilego.eu/project/) of OER will be created within this process, work package leaders are in the process of delegating groups of OER, called bundles to institutional teams.
+This post provides an example online education resource (OER), which is one of the main output objectives of the digilego project. 
+
+<!--more-->
+
+Within the four geography and environmental science methodology work packages (qualitative, quantitative, field, and lab) of this project, a variety of OER types are being created:
+
+![OER types](/images/figures/open_education_resources.svg)
+
+Work package leaders are currently in the process of delegating groups of OER, called bundles, within institutional teams.
 
 This OER serves as an example of a more utilitarian resource, that can be used in a variety of teaching applications. The more you learn about QR codes, the more you understand their potential.
 
 This resource will cover what QR codes are and how they function, how you can make your own, and describe some applications in Geography and Environmental Science applications.
 
-<!--more-->
 
 {{< toc >}}
 
@@ -161,16 +168,16 @@ We do *not* cover here how to install the library as other resources exist that 
 The QR code library is a stand-alone tool that can also be used from within Python scripts (e.g., to automate the generation of a large quantity of QR codes).
 The simplest method to create individual QR codes is from the command line however:
 
-```
+{{< highlight bash >}}
   qr "Easy"
-```
+{{< / highlight >}}
 
 This displays the QR code directly in the console/terminal, but does not generate an image file.
 In the Mac or Linux terminal we can direct the output into a file:
 
-```
+{{< highlight bash >}}
 qr "Easy" > easy.png
-```
+{{< / highlight >}}
 
 ![QR code](imgs/qrcode_easy.png "Contains data: Easy")
 
@@ -183,18 +190,18 @@ Remember to test them with your smartphone before printing or sharing them!
 
 Following from above we can use the same process to create a link to a website and save it as an image:
 
-```
+{{< highlight bash >}}
 qr "https://project.digilego.eu" > digilego_qrcode.png 
-```
+{{< / highlight >}}
 
 Alternatively, we can do this as a [Python script](https://pythonbasics.org/execute-python-scripts/):
 
-```
+{{< highlight python >}}
 import qrcode
 
 qr = qrcode.make('https://project.digilego.eu')
 qr.save('url.png')
-```
+{{< / highlight >}}
 
 This will generate the QR code in the image file named **url.png**.
 
@@ -203,20 +210,21 @@ This will generate the QR code in the image file named **url.png**.
 To have a QR code launch the user's email application the QR code data must start with "mailto:" followed by an email and optionally a subject and body.
 
 Generating one from the command line again, is simple:
-```
+{{< highlight bash >}}
 qr "mailto:jack@hotelmail.com?subject=QR codes are amazing&body=This QR code is generating an email" > email_qrcode.png
-```
+# see hidden code/content by scrolling or panning right
+{{< / highlight >}}
 
 However, you can even better formulate the body of the message by using newlines, and these function more easilty by using a Python script:
 
-```
+{{< highlight python >}}
 import qrcode
 
 payload = 'mailto:reservation@geography.com?subject=Trip reservation&body=Dear Geog\n\nPlease find below my registration information.\nName:\nRole:\nInstitution:'
 
 qr = qrcode.make(payload)
 qr.save('qrcode_email_reservation.png')
-```
+{{< / highlight >}}
 
 The "\n" in the payload are for new lines.
 Also note the use of the special characters (:, ?, &, =) in the basic payload syntax below: 
@@ -254,18 +262,18 @@ WIFI:S:CptnCrunch;T:WPA;P:WithMilkPlease;H:false;;
 
 Now using this to generate a QR code.
 
-```
+{{< highlight bash >}}
 qr "WIFI:S:CptnCrunch;T:WPA;P:WithMilkPlease;H:false;;" > WiFi_qrcode.png
-```
+{{< / highlight >}}
 
 You can of course replace the data payload into the Python script as done for the URL example above if you prefer:
 
-```
+{{< highlight python >}}
 import qrcode
 
 qr = qrcode.make('WIFI:S:CptnCrunch;T:WPA;P:WithMilkPlease;H:false;;')
 qr.save('url.png')
-```
+{{< / highlight >}}
 
 #### Geographic location
 
@@ -279,9 +287,9 @@ geo:latitude,longitude
 
 We can directly generate a QR code that will open in your mapping application, in this case pointing to Vancouver, Canada.
 
-```
+{{< highlight bash >}}
 qr "geo:49.2827,-123.1207" > qrcode_yvr.png
-```
+{{< / highlight >}}
 
 You can test the result below.
 
@@ -295,20 +303,20 @@ For some applications however you may prefer to export the QR code in vector for
 
 You can easily change the export method by using the "--factory=svg-path" parameter and updating the output filename extension:
 
-```
+{{< highlight bash >}}
 qr --factory=svg-path "Some text" > test.svg
-```
+{{< / highlight >}}
 
 Doing the same in a Python requires a few more lines:
 
-```
+{{< highlight python >}}
 import qrcode
 import qrcode.image.svg
 
 payload = 'This is an SVG file'
 img = qrcode.make(payload, image_factory=qrcode.image.svg.SvgPathImage)
 img.save("qrcode.svg")
-```
+{{< / highlight >}}
 
 ![A QR code in SVG format](imgs/qrcode.svg "A QR code in vectorial/SVG format.")
 
@@ -316,7 +324,7 @@ The Python QR library creators provide further details on how to [create an SVG 
 
 ### Styling
 
-There are many additional functions for styling QR codes within the Python package, however, for many it may be easier to simpler to modify the styling in a graphics editor rather than use the existing library.
+There are many additional functions for styling QR codes within the Python package, however, for many it may be simpler to modify the styling in a graphics editor rather than use the existing library.
 
 Remember that you can do things such as change colours, merge designs, or even hide parts of the QR code and it should still function. Here's an examples of a logo embedded into a QR code:
 

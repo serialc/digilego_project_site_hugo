@@ -1,0 +1,532 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   sodipodi:docname="work_package_structure.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 223.8041 113.55866"
+   height="113.55865mm"
+   width="223.80411mm"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs2">
+    <rect
+       x="43.577663"
+       y="93.640114"
+       width="129.21831"
+       height="50.723015"
+       id="rect964" />
+    <rect
+       x="38.917118"
+       y="37.119598"
+       width="134.91594"
+       height="29.101318"
+       id="rect1020" />
+    <rect
+       x="38.917118"
+       y="37.119598"
+       width="31.761591"
+       height="21.699417"
+       id="rect1020-6" />
+    <rect
+       x="38.917118"
+       y="37.119598"
+       width="31.761589"
+       height="31.935011"
+       id="rect1020-6-4" />
+    <rect
+       x="38.917118"
+       y="37.119598"
+       width="31.761589"
+       height="39.540798"
+       id="rect1020-6-4-2" />
+    <rect
+       x="38.917118"
+       y="37.119598"
+       width="31.761583"
+       height="50.669434"
+       id="rect1020-6-4-2-4" />
+    <rect
+       x="38.917118"
+       y="37.119598"
+       width="134.91594"
+       height="29.101318"
+       id="rect1020-6-2" />
+    <rect
+       x="43.577663"
+       y="93.640114"
+       width="129.21831"
+       height="50.723015"
+       id="rect964-7" />
+    <rect
+       x="43.577663"
+       y="93.640114"
+       width="129.21831"
+       height="50.723015"
+       id="rect964-7-6" />
+    <rect
+       x="38.917118"
+       y="37.119598"
+       width="38.076904"
+       height="38.625793"
+       id="rect1020-6-2-6" />
+    <rect
+       x="43.577663"
+       y="93.640114"
+       width="31.46356"
+       height="7.2557602"
+       id="rect964-3-7-1-6-6" />
+    <rect
+       x="43.577663"
+       y="93.640114"
+       width="29.577156"
+       height="7.8408508"
+       id="rect964-3-7-6-9-2" />
+    <rect
+       x="43.577663"
+       y="93.640114"
+       width="30.605133"
+       height="7.5762725"
+       id="rect964-3-7-3-1-1" />
+    <rect
+       x="43.577663"
+       y="93.640114"
+       width="27.627045"
+       height="7.8408537"
+       id="rect964-3-7-9-2" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.0519029"
+     inkscape:cx="414.96226"
+     inkscape:cy="240.99183"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:object-paths="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:window-width="1944"
+     inkscape:window-height="970"
+     inkscape:window-x="26"
+     inkscape:window-y="23"
+     inkscape:window-maximized="0"
+     inkscape:snap-global="true"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:snap-page="true"
+     inkscape:pagecheckerboard="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Boxes"
+     transform="translate(10.580729,-6.7674676)">
+    <rect
+       style="display:inline;fill:#eeeeee;fill-opacity:1;stroke:#000000;stroke-width:0.529168;stop-color:#000000"
+       id="rect839-35"
+       width="223.27493"
+       height="113.02949"
+       x="-10.316145"
+       y="7.0320516"
+       ry="2.573051"
+       rx="2.5730507"
+       inkscape:label="WP1" />
+    <rect
+       style="display:none;fill:#ffffff;stroke:#000000;stroke-width:0.529168;stop-color:#000000"
+       id="rect839-9"
+       width="178.46027"
+       height="28.308025"
+       x="28.939674"
+       y="102.47086"
+       ry="2.573051"
+       rx="2.5730512"
+       inkscape:label="WP7" />
+    <rect
+       style="display:inline;fill:#ffffff;stroke:#000000;stroke-width:0.529169;stop-color:#000000"
+       id="rect839-9-3"
+       width="38.102997"
+       height="69.927086"
+       x="169.29694"
+       y="30.42709"
+       ry="2.5730512"
+       rx="2.5730512"
+       inkscape:label="WP6" />
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.529167;stop-color:#000000"
+       id="rect839-3"
+       width="33.079514"
+       height="59.116798"
+       x="28.939674"
+       y="41.237385"
+       ry="2.5730512"
+       rx="2.573051"
+       inkscape:label="WP2" />
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.529168;stop-color:#000000"
+       id="rect839-3-6"
+       width="33.079514"
+       height="59.116798"
+       x="62.749821"
+       y="41.237385"
+       ry="2.5730512"
+       rx="2.573051"
+       inkscape:label="WP3" />
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.529168;stop-color:#000000"
+       id="rect839-3-7"
+       width="33.079514"
+       height="59.116798"
+       x="96.559952"
+       y="41.237385"
+       ry="2.5730512"
+       rx="2.573051"
+       inkscape:label="WP4" />
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.529168;stop-color:#000000"
+       id="rect839-3-5"
+       width="33.079514"
+       height="59.116798"
+       x="130.37012"
+       y="41.237385"
+       ry="2.5730512"
+       rx="2.573051"
+       inkscape:label="WP5" />
+  </g>
+  <g
+     inkscape:label="Text"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-1.1532962,-56.860789)"
+     style="display:inline">
+    <text
+       xml:space="preserve"
+       id="text1018-9-8-7"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:Serif;-inkscape-font-specification:Serif;text-align:center;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect1020-6-2-6);fill:#000000;fill-opacity:1;stroke:none"
+       transform="translate(143.08996,47.824777)"
+       rotate="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+       inkscape:label="WP6"
+       x="29.785236"
+       y="0"><tspan
+         x="47.434742"
+         y="40.864645"
+         id="tspan43884"><tspan
+           style="font-weight:bold"
+           id="tspan43882">WP6/IO1
+</tspan></tspan><tspan
+         x="48.57369"
+         y="46.156309"
+         id="tspan43888"><tspan
+   style="font-weight:bold"
+   id="tspan43886">(LISER)</tspan>
+</tspan><tspan
+         x="44.370332"
+         y="51.447974"
+         id="tspan43890">Participative
+</tspan><tspan
+         x="43.024679"
+         y="56.739638"
+         id="tspan43892">dissemination </tspan><tspan
+         x="48.73492"
+         y="62.031302"
+         id="tspan43894">platform </tspan><tspan
+         x="44.120218"
+         y="67.322966"
+         id="tspan43896">development</tspan></text>
+    <text
+       xml:space="preserve"
+       id="text1018"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:Serif;-inkscape-font-specification:Serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect1020);fill:#000000;fill-opacity:1;stroke:none"
+       transform="translate(1.6087188,24.504152)"
+       rotate="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"><tspan
+         x="38.917969"
+         y="40.864645"
+         id="tspan43900"><tspan
+   style="font-weight:bold"
+   id="tspan43898">WP1 (TU) Project coordination</tspan> 
+</tspan><tspan
+         x="38.917969"
+         y="46.156309"
+         id="tspan43902">- Management and coordination of research project
+</tspan><tspan
+         x="38.917969"
+         y="51.447974"
+         id="tspan43904">- Monitoring of overall progress
+</tspan><tspan
+         x="38.917969"
+         y="56.739638"
+         id="tspan43906">- Project finance
+</tspan><tspan
+         x="38.917969"
+         y="62.031302"
+         id="tspan43908">- Academic outputs (IO6)</tspan></text>
+    <text
+       xml:space="preserve"
+       id="text1018-9"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:Serif;-inkscape-font-specification:Serif;text-align:center;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect1020-6);fill:#000000;fill-opacity:1;stroke:none"
+       transform="translate(2.7303767,58.899653)"
+       rotate="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+       x="37.32172"
+       y="0"><tspan
+         x="44.276539"
+         y="40.864645"
+         id="tspan43912"><tspan
+           style="font-weight:bold"
+           id="tspan43910">WP2/IO2
+</tspan></tspan><tspan
+         x="41.221431"
+         y="46.156309"
+         id="tspan43916"><tspan
+   style="font-weight:bold"
+   id="tspan43914">(TU/LISER)</tspan>
+</tspan><tspan
+         x="42.994964"
+         y="51.447974"
+         id="tspan43918">Qualitative
+</tspan><tspan
+         x="45.608756"
+         y="56.739638"
+         id="tspan43920">methods
+</tspan></text>
+    <text
+       xml:space="preserve"
+       id="text1018-9-2"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:Serif;-inkscape-font-specification:Serif;text-align:center;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect1020-6-4);fill:#000000;fill-opacity:1;stroke:none"
+       transform="translate(36.203593,58.899652)"
+       rotate="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+       x="10.275332"
+       y="0"><tspan
+         x="44.276539"
+         y="40.864645"
+         id="tspan43924"><tspan
+           style="font-weight:bold"
+           id="tspan43922">WP3/IO3
+</tspan></tspan><tspan
+         x="39.384852"
+         y="46.156309"
+         id="tspan43928"><tspan
+   style="font-weight:bold"
+   id="tspan43926">(LISER/UoH)</tspan>
+</tspan><tspan
+         x="43.570639"
+         y="51.447974"
+         id="tspan43930">Quantitive
+</tspan><tspan
+         x="45.608756"
+         y="56.739638"
+         id="tspan43932">methods
+</tspan></text>
+    <text
+       xml:space="preserve"
+       id="text1018-9-2-6"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:Serif;-inkscape-font-specification:Serif;text-align:center;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect1020-6-4-2);fill:#000000;fill-opacity:1;stroke:none"
+       transform="translate(70.013728,58.899652)"
+       rotate="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+       x="9.4309406"
+       y="0"><tspan
+         x="44.276539"
+         y="40.864645"
+         id="tspan43936"><tspan
+           style="font-weight:bold"
+           id="tspan43934">WP4/IO4
+</tspan></tspan><tspan
+         x="47.537319"
+         y="46.156309"
+         id="tspan43940"><tspan
+   style="font-weight:bold"
+   id="tspan43938">(UoH)</tspan>
+</tspan><tspan
+         x="44.721989"
+         y="51.447974"
+         id="tspan43942">Lab work
+</tspan><tspan
+         x="45.608756"
+         y="56.739638"
+         id="tspan43944">methods
+</tspan></text>
+    <text
+       xml:space="preserve"
+       id="text1018-9-2-6-1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:Serif;-inkscape-font-specification:Serif;text-align:center;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect1020-6-4-2-4);fill:#000000;fill-opacity:1;stroke:none"
+       transform="translate(103.84249,58.899652)"
+       rotate="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+       x="10.467569"
+       y="0"><tspan
+         x="44.276539"
+         y="40.864645"
+         id="tspan43948"><tspan
+           style="font-weight:bold"
+           id="tspan43946">WP5/IO5
+</tspan></tspan><tspan
+         x="48.024111"
+         y="46.156309"
+         id="tspan43952"><tspan
+   style="font-weight:bold"
+   id="tspan43950">(NUI)</tspan>
+</tspan><tspan
+         x="43.314324"
+         y="51.447974"
+         id="tspan43954">Field work
+</tspan><tspan
+         x="45.608756"
+         y="56.739638"
+         id="tspan43956">methods
+</tspan></text>
+    <text
+       xml:space="preserve"
+       id="text1018-9-8"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:Serif;-inkscape-font-specification:Serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect1020-6-2);fill:#000000;fill-opacity:1;stroke:none"
+       transform="translate(3.2106921,118.0909)"
+       rotate="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"><tspan
+         x="38.917969"
+         y="40.864645"
+         id="tspan43958">- Dissemination (e.g., multiplier event)
+</tspan><tspan
+         x="38.917969"
+         y="46.156309"
+         id="tspan43960">- Platform promotion for wider use and contribution 
+</tspan></text>
+    <g
+       id="g945"
+       inkscape:label="cross-sectional"
+       style="display:inline"
+       transform="translate(0,3.7041668)">
+      <g
+         id="g1179"
+         transform="translate(-0.25813066,2.3802163)">
+        <rect
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.529169;stop-color:#000000"
+           id="rect960-3-9"
+           width="172.80556"
+           height="6.9721789"
+           x="43.577663"
+           y="134.7451"
+           rx="0"
+           ry="0" />
+        <text
+           xml:space="preserve"
+           id="text962-5-1"
+           style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect964-7-6);fill:#ffffff;fill-opacity:1;stroke:none"
+           transform="translate(1.0888806,41.89822)"><tspan
+             x="43.578125"
+             y="97.38613"
+             id="tspan43964"><tspan
+               style="font-weight:bold;font-family:Serif;-inkscape-font-specification:Serif"
+               id="tspan43962">Testing and validation</tspan></tspan></text>
+      </g>
+      <g
+         id="g1167"
+         transform="translate(-0.2581421,3.252517)">
+        <rect
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.52917;stop-color:#000000"
+           id="rect960"
+           width="172.80557"
+           height="6.9721789"
+           x="43.577667"
+           y="113.57844"
+           rx="0"
+           ry="0" />
+        <text
+           xml:space="preserve"
+           id="text962"
+           style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect964);fill:#ffffff;fill-opacity:1;stroke:none"
+           transform="translate(1.0888794,20.731552)"><tspan
+             x="43.578125"
+             y="97.38613"
+             id="tspan43968"><tspan
+               style="font-weight:bold;font-family:Serif;-inkscape-font-specification:Serif"
+               id="tspan43966">Identifying demands, generating ideas</tspan></tspan></text>
+      </g>
+      <g
+         id="g1173"
+         transform="translate(-0.2581421,2.8163631)">
+        <rect
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.529169;stop-color:#000000"
+           id="rect960-3"
+           width="172.80557"
+           height="6.9721789"
+           x="43.577667"
+           y="124.16177"
+           rx="0"
+           ry="0" />
+        <text
+           xml:space="preserve"
+           id="text962-5"
+           style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect964-7);fill:#ffffff;fill-opacity:1;stroke:none"
+           transform="translate(1.0888794,31.314885)"><tspan
+             x="43.578125"
+             y="97.38613"
+             id="tspan43972"><tspan
+               style="font-weight:bold;font-family:Serif;-inkscape-font-specification:Serif"
+               id="tspan43970">Development and design</tspan></tspan></text>
+      </g>
+    </g>
+    <text
+       xml:space="preserve"
+       id="text962-6-5"
+       style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;text-align:end;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect964-3-7-9-2);display:inline;fill:#000000;fill-opacity:1;stroke:none"
+       transform="translate(-33.832717,-32.017335)"
+       x="23.070408"
+       y="0"><tspan
+         x="47.471146"
+         y="97.38613"
+         id="tspan43974">Months 1-6</tspan></text>
+    <text
+       xml:space="preserve"
+       id="text962-6-5-5"
+       style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;text-align:end;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect964-3-7-3-1-1);display:inline;fill:#000000;fill-opacity:1;stroke:none"
+       transform="translate(-36.788495,36.247931)"
+       x="25.662495"
+       y="0"><tspan
+         x="47.756289"
+         y="97.38613"
+         id="tspan43976">Months 7-18</tspan></text>
+    <text
+       xml:space="preserve"
+       id="text962-6-5-9"
+       style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;text-align:end;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect964-3-7-6-9-2);display:none;fill:#000000;fill-opacity:1;stroke:none"
+       transform="translate(-35.738527,44.278444)"
+       x="28.337265"
+       y="0" />
+    <text
+       xml:space="preserve"
+       id="text962-6-5-0"
+       style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;text-align:end;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect964-3-7-1-6-6);display:inline;fill:#000000;fill-opacity:1;stroke:none"
+       transform="translate(-37.778208,61.569398)"
+       x="28.490227"
+       y="0"><tspan
+         x="45.920337"
+         y="97.38613"
+         id="tspan43978">Months 19-24</tspan></text>
+  </g>
+</svg>
