@@ -3,3 +3,4 @@ digilego/public
 *.swp
 google*.html
 .Rhistory
+.hugo_build.lock
