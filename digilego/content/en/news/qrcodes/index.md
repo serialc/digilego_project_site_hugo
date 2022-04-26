@@ -31,12 +31,11 @@ A QR (Quick Response) code is a machine optimized readable symbol as seen below,
 ![A QR code linking to the digilego project page](imgs/digilego_qrcode.png "A QR code containing the data: https://project.digilego.eu")
 
 Test the above QR code with your smartphone or tablet's camera to see the data contained within.
+Without even taking a picture the QR code URL, website address, should appear, which will be activated by clicking on it.
 
-Depending on your smartphone, or device, you may need to use the camera app. Some older devices may require using a specific QR code decoding app.
+Depending on your smartphone, or device, you may be able to use the camera app to decode or perform a specific activity. Some devices, depending on what action is contained within the QR code, may require using a QR code decoding app.
 
-Without even taking a picture the QR code link should appear, which will be activated by clicking on it.
-
-If however the QR code contains just data, such as text in the example below, a specialized app may be necessary. On an Android device you can use Google Lens to see the data contained within any QR code.
+The QR code below contains just text data, without any action. On an Android device you can use Google Lens to see the data contained within any QR code if the camera does not function.
 
 ![A QR code example](imgs/I_am_a_QR_code.png "A QR code containing the data 'I am a QR code'.")
 
