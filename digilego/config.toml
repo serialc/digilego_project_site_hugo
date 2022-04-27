@@ -53,7 +53,7 @@ unsafe= true
   background_color_class = "bg-dl-quantdk"
 
   featured_image = "/images/scenes/owl_watch.jpg"
-  recent_posts_number = 2
+  recent_posts_number = 4
 
 # Footer headings
   footer_menu_left = "Co-funded by"
