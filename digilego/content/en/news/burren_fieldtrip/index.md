@@ -11,8 +11,8 @@ Digilego is hosting a virtual ﬁeld course
 development workshop in the Burren Nature
 Sanctuary in near Galway, Ireland, from **June 28th – 30th 2022**.
 
-The aim is to **develop a series of open educa-
-tional resources** that each have use and value
+The aim is to **develop a series of open educational
+resources** that each have use and value
 in their own right but also as a larger-scale
 resource that can be used as a ﬁeld session/ﬁeld
 day in an entirely online capacity. **Participants
