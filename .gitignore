@@ -1,4 +1,4 @@
-digilego/themes
+digilego/themes/*
 digilego/public 
 *.swp
 google*.html

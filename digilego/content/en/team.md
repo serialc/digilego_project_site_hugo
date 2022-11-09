@@ -43,7 +43,7 @@ The digilego team consists of individuals from four European institutions partic
   {{< profile name="Dagmar Stengel" institute="NUIG" picture="placeholder/owl.jpg" email="" >}}{{< /profile >}}
   {{< profile name="Will Mayes" institute="University of Hull" picture="placeholder/owl.jpg" email="" >}}{{< /profile >}}
   {{< profile name="Kate Molloy" institute="NUIG" picture="placeholder/satellite.jpg" email="">}}Involved in the <a href='https://edtl.blog'>EDTL project</a>{{< /profile >}}
-  {{< profile name="Ivonne Weichold" institute="LISER" picture="collaborators/ivonne_weichold.jpg" email="" >}}{{< /profile >}}
+  {{< profile name="Ivonne Weichold" institute="LISER" picture="collaborators/ivonne_weichold.jpg" email="" >}}Urban Planning &amp;<br> Human Geography{{< /profile >}}
   {{< profile name="Sahar Zavareh" institute="Trier University" picture="collaborators/sahar_zavareh-hofmann.jpg" email="" >}}{{< /profile >}}
   </div>
 {{< /rawhtml >}} 
