@@ -214,7 +214,7 @@ qr "mailto:jack@hotelmail.com?subject=QR codes are amazing&body=This QR code is 
 # see hidden code/content by scrolling or panning right
 {{< / highlight >}}
 
-However, you can even better formulate the body of the message by using newlines, and these function more easilty by using a Python script:
+However, you can even better formulate the body of the message by using newlines, and these function more easily by using a Python script:
 
 {{< highlight python >}}
 import qrcode
@@ -232,7 +232,7 @@ Also note the use of the special characters (:, ?, &, =) in the basic payload sy
 mailto:[email address]?subject=[subject text]&body=[body text]
 ```
 
-These symbols are not interchangable.
+These symbols are not interchangeable.
 
 Test out the resulting QR code from the Python code above:
 
