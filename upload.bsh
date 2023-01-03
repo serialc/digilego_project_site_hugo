@@ -1,4 +1,5 @@
 #!/bin/sh
+export HUGO_ENV=production
 rm -rf digilego/public/*
 cd digilego
 hugo
@@ -9,3 +10,4 @@ echo "##########################################################################
 echo "# REMINDER: This process adds and replaces data on the server but does not delete content. #"
 echo "############################################################################################"
 echo "\n\n"
+echo "Hugo environment variable is set to: " $HUGO_ENV

@@ -6,7 +6,7 @@ copyright = "digilego"
 
 DefaultContentLanguage = "en"
 sectionPagesMenu = "main"
-paginate = "8"
+paginate = "9"
 #enableRobotsTXT = true
 
 summaryLength = 70
@@ -28,7 +28,7 @@ unsafe= true
   filename = "sitemap.xml"
 
 [params]
-  favicon = "/images/site/favicon.ico"
+  favicon = "/favicon.ico"
   site_logo = "/images/logos/logo_and_text_white.svg"
   site_logo_symbol = "/images/logos/logo.svg"
   site_logo_width = 350

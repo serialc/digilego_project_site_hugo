@@ -1,11 +1,11 @@
 ---
-title: Contact
+title: "Contact"
+date: 2021-06-01
+description: "We'd love to hear from you"
 featured_image: "images/scenes/drone.jpg"
-omit_header_text: true
-description: We'd love to hear from you
-type: page
+omit_header_text: false
+type: "page"
 menu: main
-draft: false
 
 ---
 

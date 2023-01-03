@@ -3,6 +3,7 @@ title: "Project"
 date: 2021-06-01
 description: "Learn more about what the project is working towards"
 featured_image: "/images/scenes/stats2.jpg"
+omit_header_text: false
 layout: "single"
 menu: main
 
