@@ -4,3 +4,4 @@ digilego/public
 google*.html
 .Rhistory
 .hugo_build.lock
+_gen
