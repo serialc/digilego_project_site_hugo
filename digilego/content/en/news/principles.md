@@ -14,7 +14,7 @@ featured_image: "/images/scenes/satellite.jpg"
 Open Educational Resources (OERs) are, typically, digital materials freely available to assist in teaching or self-study. OERs can vary greatly in size and applicability. They can be part of a lesson, used as priming for a teaching session, used during a session, or shared with students following sessions to reinforce or supplement learning (e.g. provide alternative perspectives), potentially using different mediums.
 
 As part of the digilego project, we [defined](https://project.digilego.eu/project/#project-objectives-and-outputs) five types of OERs:
-    **Pieces**: sample material for frequently used standardized methods that can be integrated into lesson plans or teaching units. These can be in different formats.
+- **Pieces**: sample material for frequently used standardized methods that can be integrated into lesson plans or teaching units. These can be in different formats.
 - **Templates**: Lesson or video scripts and content ready to use for the creation of personalized teaching material
 - **Instructions**: Self-training manuals on how to generate digital teaching resources for university teachers
 - **Catalogues**: Collections of ideas and short case studies of different teaching approaches and examples based on primary and secondary sources

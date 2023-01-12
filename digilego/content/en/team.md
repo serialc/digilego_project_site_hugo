@@ -52,7 +52,7 @@ The digilego team consists of individuals from four European institutions partic
 
 The five following institutions are co-funding this research project.
 
-<div class='cf'>
+<div class='cf wbg'>
 {{< institute name="European Union" institute="EU" picture="eu_cofunded2.jpg" >}}Erasmus plus programme. <a href="https://ec.europa.eu/programmes/erasmus-plus/">Visit the website</a>{{< /institute >}}
 {{< institute name="Trier University" institute="Germany" picture="trier.svg" >}}<a href="https://www.uni-trier.de/">Visit the website</a>{{< /institute >}}
 {{< institute name="NUI Galway" institute="Ireland" picture="galway.png" >}}<a href="https://www.nuigalway.ie/">Visit the website</a>{{< /institute >}}
@@ -62,7 +62,7 @@ The five following institutions are co-funding this research project.
 
 ## Supported by
 
-<div class='cf'>
-{{< institute name="DAAD - Deutscher Akademischer Austauschdients - German Academic Exchange Service" institute="Germany" picture="daad.svg" >}}<a href="https://www.daad.de/en/">Visit the website</a>{{< /institute >}}
+<div class='cf wbg'>
+{{< institute name="DAAD - Deutscher Akademischer Austauschdienst - German Academic Exchange Service" institute="Germany" picture="daad.svg" >}}<a href="https://www.daad.de/en/">Visit the website</a>{{< /institute >}}
 </div>
 
