@@ -89,7 +89,7 @@ identifier = "special bg-dl-lab"
   [[menu.footer_left]]
   name = "University of Galway"
   url = "https://www.universityofgalway.ie/"
-  identifier = "GU.jpg"
+  identifier = "UG.jpg"
 
   [[menu.footer_left]]
   name = "LISER"

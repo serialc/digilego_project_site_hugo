@@ -55,7 +55,7 @@ The five following institutions are co-funding this research project.
 <div class='cf wbg'>
 {{< institute name="European Union" institute="EU" picture="eu_cofunded2.jpg" >}}Erasmus plus programme. <a href="https://ec.europa.eu/programmes/erasmus-plus/">Visit the website</a>{{< /institute >}}
 {{< institute name="Trier University" institute="Germany" picture="trier.svg" >}}<a href="https://www.uni-trier.de/">Visit the website</a>{{< /institute >}}
-{{< institute name="University of Galway" institute="Ireland" picture="GU.jpg" >}}<a href="https://www.universityofgalway.ie/">Visit the website</a>{{< /institute >}}
+{{< institute name="University of Galway" institute="Ireland" picture="UG.jpg" >}}<a href="https://www.universityofgalway.ie/">Visit the website</a>{{< /institute >}}
 {{< institute name="University of Hull " institute="England" picture="hull2.jpg" >}}<a href="https://www.hull.ac.uk/">Visit the website</a>{{< /institute >}}
 {{< institute name="Luxembourg Institute of Socio-Economic Research (LISER)" institute="Luxembourg" picture="liser2.png" >}}<a href="http://liser.lu">Visit the website</a>{{< /institute >}}
 </div>
