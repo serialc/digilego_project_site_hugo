@@ -7,7 +7,7 @@ menu: main
 
 ---
 
-The digilego project is an EU co-funded collaboration between the [Faculty of Spatial and Environmental Sciences](https://www.uni-trier.de/en/university/faculties-and-departments/faculty-vi/the-department) at Trier University, LISER's department of [Urban Development and Mobility](https://www.liser.lu/?type=module&id=149), the [Department of Geography, Geology and Environment](https://www.hull.ac.uk/faculties/departments/department-of-geography-geology-and-environment) at the University of Hull, and the [School of Natural Sciences](http://www.nuigalway.ie/science-engineering/school-of-natural-sciences/) at the National University of Ireland Galway.
+The digilego project is an EU co-funded collaboration between the [Faculty of Spatial and Environmental Sciences](https://www.uni-trier.de/en/university/faculties-and-departments/faculty-vi/the-department) at Trier University, LISER's department of [Urban Development and Mobility](https://www.liser.lu/?type=module&id=149), the [Department of Geography, Geology and Environment](https://www.hull.ac.uk/faculties/departments/department-of-geography-geology-and-environment) at the University of Hull, and the [School of Natural Sciences](http://www.nuigalway.ie/science-engineering/school-of-natural-sciences/) at the University of Galway.
 
 Our team consists of a large group of experts covering a broad range of fields from environmental sciences, geology, to physical and human geography as well as experts in higher education pedagogy and staff from the partners' teaching and learning centres.
 
@@ -17,7 +17,7 @@ The digilego team consists of individuals from four European institutions partic
 {{< rawhtml >}}
   <div class="w-100 flex flex-wrap mt5">
   {{< profile name="Julia Affolderbach" institute="Trier University" picture="ja.jpg" email="affolderbach@uni-trier.de" >}}Project Lead /<br> Qualitative Lead{{< /profile >}}
-  {{< profile name="Karen Bacon" institute="NUI Galway" picture="kb.jpg" email="karen.bacon@nuigalway.ie">}}Field Lead{{< /profile >}}
+  {{< profile name="Karen Bacon" institute="University of Galway" picture="kb.jpg" email="karen.bacon@nuigalway.ie">}}Field Lead{{< /profile >}}
   {{< profile name="Jane Bunting" institute="University of Hull" picture="jb.jpg" email="m.j.bunting@hull.ac.uk">}}Lab Lead{{< /profile >}}
   {{< profile name="Cyrille de Chardon" institute="LISER" picture="cmc.jpg" email="cyrille.mdc@liser.lu" >}}Quantitative Lead{{< /profile >}}
 
@@ -55,7 +55,7 @@ The five following institutions are co-funding this research project.
 <div class='cf wbg'>
 {{< institute name="European Union" institute="EU" picture="eu_cofunded2.jpg" >}}Erasmus plus programme. <a href="https://ec.europa.eu/programmes/erasmus-plus/">Visit the website</a>{{< /institute >}}
 {{< institute name="Trier University" institute="Germany" picture="trier.svg" >}}<a href="https://www.uni-trier.de/">Visit the website</a>{{< /institute >}}
-{{< institute name="NUI Galway" institute="Ireland" picture="galway.png" >}}<a href="https://www.nuigalway.ie/">Visit the website</a>{{< /institute >}}
+{{< institute name="University of Galway" institute="Ireland" picture="GU.jpg" >}}<a href="https://www.universityofgalway.ie/">Visit the website</a>{{< /institute >}}
 {{< institute name="University of Hull " institute="England" picture="hull2.jpg" >}}<a href="https://www.hull.ac.uk/">Visit the website</a>{{< /institute >}}
 {{< institute name="Luxembourg Institute of Socio-Economic Research (LISER)" institute="Luxembourg" picture="liser2.png" >}}<a href="http://liser.lu">Visit the website</a>{{< /institute >}}
 </div>
