@@ -63,11 +63,11 @@ unsafe= true
 # Menus in head and foot of page
 [menu]
 
-#[[menu.main]]
-#name = "Go to digilego"
-#url = "https://digilego.eu"
-#weight = 1
-#identifier = "special bg-dl-lab"
+[[menu.main]]
+name = "Go to digilego"
+url = "https://digilego.eu"
+weight = 1
+identifier = "special bg-dl-lab"
 
 
 # footer menu left

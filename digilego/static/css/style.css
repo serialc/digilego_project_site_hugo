@@ -9,8 +9,8 @@ footer a:hover, nav a:hover {
   margin-right: 20px;
 }
 
-a.special {
-  transition: .2s ease
+.special {
+  transition: .1s;
 }
 
 .special:hover {
