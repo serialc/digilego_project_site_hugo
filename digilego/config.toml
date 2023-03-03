@@ -64,11 +64,10 @@ unsafe= true
 [menu]
 
 [[menu.main]]
-name = "Go to digilego"
+name = "Go to Digilego platform"
 url = "https://digilego.eu"
 weight = 1
 identifier = "special bg-dl-lab"
-
 
 # footer menu left
   [[menu.footer_left]]

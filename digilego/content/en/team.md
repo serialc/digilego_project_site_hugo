@@ -17,7 +17,7 @@ The digilego team consists of individuals from four European institutions partic
 {{< rawhtml >}}
   <div class="w-100 flex flex-wrap mt5">
   {{< profile name="Julia Affolderbach" institute="Trier University" picture="ja.jpg" email="affolderbach@uni-trier.de" >}}Project Lead /<br> Qualitative Lead{{< /profile >}}
-  {{< profile name="Karen Bacon" institute="University of Galway" picture="kb.jpg" email="karen.bacon@nuigalway.ie">}}Field Lead{{< /profile >}}
+  {{< profile name="Karen Bacon" institute="University of Galway" picture="kb.jpg" email="karen.bacon@universityofgalway.ie">}}Field Lead{{< /profile >}}
   {{< profile name="Jane Bunting" institute="University of Hull" picture="jb.jpg" email="m.j.bunting@hull.ac.uk">}}Lab Lead{{< /profile >}}
   {{< profile name="Cyrille de Chardon" institute="LISER" picture="cmc.jpg" email="cyrille.mdc@liser.lu" >}}Quantitative Lead{{< /profile >}}
 
