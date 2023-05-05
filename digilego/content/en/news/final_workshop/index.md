@@ -10,6 +10,7 @@ featured_image: "/images/scenes/focus_group.jpg"
 ## Digilego Learning, Teaching and Training Workshop, **22-24 May 2023**
 **Trier University & Luxembourg Institute of Socioeconomic Research**  
 #### [Register here](https://www.uni-trier.de/universitaet/fachbereiche-faecher/fachbereich-vi/faecher/nachhaltige-regional-und-standortentwicklung/standard-titel#c381241)
+#### [Programme PDF](Programme_v1.pdf)
 
 ### Workshop description
 The workshop offers the opportunity to develop and strengthens digital skills for geography and environmental sciences methods teaching including field, qualitative and quantitative methods. The workshop includes field elements and hands on training with selected tools and applications as well as presentations on best practices, experiences and interactive round tables for knowledge exchange and trouble shooting.
@@ -47,9 +48,7 @@ Please indicate which days you can or wish to participate:
 
 ## Programme
 
-===>> Will be updated soon <<===
-
-&nbsp;
+==> [Programme PDF](Programme_v1.pdf) <==
 
 --- 
 
