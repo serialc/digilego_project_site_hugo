@@ -9,18 +9,21 @@ featured_image: "/images/scenes/focus_group.jpg"
 
 ## Digilego Learning, Teaching and Training Workshop, **22-24 May 2023**
 **Trier University & Luxembourg Institute of Socioeconomic Research**  
-#### [Register here](https://www.uni-trier.de/universitaet/fachbereiche-faecher/fachbereich-vi/faecher/nachhaltige-regional-und-standortentwicklung/standard-titel#c381241)
-#### [Programme PDF](Programme_v1.pdf)
+
+**[Register here](https://www.uni-trier.de/universitaet/fachbereiche-faecher/fachbereich-vi/faecher/nachhaltige-regional-und-standortentwicklung/standard-titel#c381241) - [See programme PDF](Programme_v1.pdf)**  
+You can register for individual days.
 
 ### Workshop description
 The workshop offers the opportunity to develop and strengthens digital skills for geography and environmental sciences methods teaching including field, qualitative and quantitative methods. The workshop includes field elements and hands on training with selected tools and applications as well as presentations on best practices, experiences and interactive round tables for knowledge exchange and trouble shooting.
 
 The event is part of the Erasmus+ Strategic Partnership on Digital and Blended Learning Resources for Geography and Environmental Sciences co-funded by the European Union.
 
-### Preliminary itinerary:
+### Itinerary overview:
 **Monday, May 22**: Field methods & training (at Trier University & National Park Hunsrück-Hochwald)  
 **Tuesday, May 23**: Open educational resources: Best practices and experiences (at Trier University)  
 **Wednesday, May 24**: Training sessions and knowledge exchange on research methods & methods teaching (at LISER)
+
+[Full programme PDF](Programme_v1.pdf)
 
 ### Contributions
 We are keen to bring together a diverse group of people interested in geography and environmental methods at all levels.
@@ -46,7 +49,7 @@ University of Galway: [Karen Bacon](karen.bacon@universityofgalway.ie)
 Please indicate which days you can or wish to participate:
 #### [Register here](https://www.uni-trier.de/universitaet/fachbereiche-faecher/fachbereich-vi/faecher/nachhaltige-regional-und-standortentwicklung/standard-titel#c381241)
 
-## Programme
+### Full Programme
 
 ==> [Programme PDF](Programme_v1.pdf) <==
 
