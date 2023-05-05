@@ -1,7 +1,7 @@
 ---
 title: "LTT Workshop 2023"
 date: 2023-03-21T09:57:29+01:00
-draft: true
+draft: false
 author: "Cyrille Médard de Chardon"
 featured_image: "/images/scenes/focus_group.jpg"
 
@@ -40,9 +40,9 @@ Confirm your attendance by May 14 so that we may assure transport.
 Please indicate which days you can or wish to participate:
 ### [Register here](To be completed)
 
-## Preliminary Programme
+## Programme
 
-[Add PDF link](Generate)
+[PDF Programme](Programme_v1.pdf)
 
 ## Further details
 ### Workshop Venues
