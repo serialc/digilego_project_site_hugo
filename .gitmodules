@@ -1,6 +1,6 @@
-[submodule "digilego/digilego/themes/ananke"]
-	path = digilego/digilego/themes/ananke
-	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git
 [submodule "digilego/themes/ananke"]
 	path = digilego/themes/ananke
 	url = https://github.com/theNewDynamic/gohugo-theme-ananke
+[submodule "digilego/themes/themes/ananke"]
+	path = digilego/themes/themes/ananke
+	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git
