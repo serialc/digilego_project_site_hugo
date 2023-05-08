@@ -10,7 +10,7 @@ featured_image: "/images/scenes/focus_group.jpg"
 ## Digilego Learning, Teaching and Training Workshop, **22-24 May 2023**
 **Trier University & Luxembourg Institute of Socioeconomic Research**  
 
-**[Register here](https://www.uni-trier.de/universitaet/fachbereiche-faecher/fachbereich-vi/faecher/nachhaltige-regional-und-standortentwicklung/standard-titel#c381241) - [See programme PDF](Programme_v1.pdf)**  
+**[Register here](https://www.uni-trier.de/universitaet/fachbereiche-faecher/fachbereich-vi/faecher/nachhaltige-regional-und-standortentwicklung/standard-titel#c381241) - [See programme PDF](Programme_v4.pdf)**  
 You can register for individual days.
 
 --- 
@@ -25,7 +25,7 @@ The event is part of the Erasmus+ Strategic Partnership on Digital and Blended L
 **Tuesday, May 23**: Open educational resources: Best practices and experiences (at Trier University)  
 **Wednesday, May 24**: Training sessions and knowledge exchange on research methods & methods teaching (at LISER)
 
-[Full programme PDF](Programme_v1.pdf)
+[Full programme PDF](Programme_v4.pdf)
 
 ### Contributions
 We are keen to bring together a diverse group of people interested in geography and environmental methods at all levels.
