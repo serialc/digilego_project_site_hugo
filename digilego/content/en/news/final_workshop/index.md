@@ -42,7 +42,7 @@ Please indicate which days you can or wish to participate:
 
 ## Programme
 
-[PDF Programme](Programme_v1.pdf)
+[PDF Programme](Programme_v4.pdf)
 
 ## Further details
 ### Workshop Venues
