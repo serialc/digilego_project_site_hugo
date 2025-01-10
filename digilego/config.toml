@@ -37,7 +37,7 @@ unsafe= true
   footer_bottom = "The creation of these resources has been (partially) funded by the ERASMUS+ grant program of the European Union under grant no. 2020 1 DE01 KA226 005814. Neither the European Commission nor the project's national funding agency DAAD are responsible for the content or liable for any losses or damage resulting of the use of these resources."
   disable_share = true
   facebook = ""
-  twitter = "https://twitter.com/digilego"
+  twitter = ""
   youtube = ""
   github = ""
   gitlab = ""
@@ -116,7 +116,3 @@ identifier = "special bg-dl-lab"
   [[menu.footer_right]]
   name = "Newsletter"
   url = "https://newsletter.digilego.eu"
-
-  [[menu.footer_right]]
-  name = "Twitter"
-  url = "https://twitter.com/digilego"
